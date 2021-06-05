@@ -14,7 +14,11 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 # Usage
 
-You can set a hotkey or use a File Action to extract `.cab` files in place. Note that the original `.cab` file won't be removed.
+You can set a hotkey or use a File Action to extract `.cab` files in place. Note that the original `.cab` file won't be removed. Personally, I prefer to use ⌃-⌘-⇧-E.
+
+1. Select one or more `.cab` files in Finder.
+2. Press your hotkey combo.
+3. The `.cab` asset catalog(s) will be extracted into folders using the corresponding filenames. 
 
 # Changelog[¹](https://keepachangelog.com/)
 
